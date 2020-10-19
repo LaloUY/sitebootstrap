@@ -1,0 +1,26 @@
+{
+  "name": "sitebootstrap",
+  "version": "1.0.0",
+  "description": "Proyecto de coursera curso FullStack",
+  "main": "index.js",
+  "scripts": {
+	"dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaloUY/sitebootstrap.git"
+  },
+  "author": "Gonzalo Brusse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaloUY/sitebootstrap/issues"
+  },
+  "homepage": "https://github.com/LaloUY/sitebootstrap#readme",
+  "dependencies": {
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
