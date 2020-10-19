@@ -4,7 +4,7 @@
   "description": "Proyecto de coursera curso FullStack",
   "main": "index.js",
   "scripts": {
-	"dev": "lite-server",
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/LaloUY/sitebootstrap#readme",
   "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
